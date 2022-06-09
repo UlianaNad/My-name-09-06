@@ -1,0 +1,16 @@
+.background {
+  background-color: aquamarine;
+  margin: 0 auto;
+  position: relative;
+  width: 800px;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+}
+.background input {
+  height: 40px;
+  width: 270px;
+  font-size: 28px;
+}/*# sourceMappingURL=main.css.map */
